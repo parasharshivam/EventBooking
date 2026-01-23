@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Management System
 
 A comprehensive Spring Boot backend application for managing events, venues, bookings, and payments.
@@ -278,3 +279,9 @@ The application includes global exception handling that returns appropriate HTTP
 ## License
 
 This project is for educational/demonstration purposes.
+=======
+# EventBooking
+this is a supper cool eventbooking application on which we are working
+<br>
+make by Shivam Parashar
+>>>>>>> 399fc734a77fdeeca2f81b05280d95fd0feb4e1e
